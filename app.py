@@ -4,9 +4,9 @@ import os
 
 app = Flask(__name__)
 
-# Load results data
-with open('results.json') as f:
-    results_data = json.load(f)
+def load_results():
+    with open('results.json') as f:
+        return json.load(f)
 
 @app.route('/')
 def home():
@@ -15,6 +15,7 @@ def home():
 @app.route('/result', methods=['POST'])
 def result():
     mobile = request.form['mobile']
+    results_data = load_results()  # <-- load fresh every time
     if mobile in results_data:
         student = results_data[mobile]
         return render_template('result.html', student=student, mobile=mobile)
@@ -25,4 +26,5 @@ def result():
 if __name__ == '__main__':
     port = int(os.environ.get("PORT", 5000))
     app.run(host='0.0.0.0', port=port, debug=True)
+
 
