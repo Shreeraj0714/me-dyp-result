@@ -89,5 +89,75 @@
             { "code": "241DSAECL101", "name": "Professional Communication", "max_marks": 25, "obt_marks": 21, "result": "PASS" },
             { "code": "241DSAECP101", "name": "Professional Communication Laboratory", "max_marks": 25, "obt_marks": 22, "result": "PASS" }
         ]
-    }
+    },
+    
+"7420026933": {
+    "name": "Mahaveer Bedmutha",
+    "status": "Pass",
+    "total": 610,
+    "out_of": 775,
+    "subjects": [
+        { "code": "241DSBSCL104", "name": "Applied Chemistry for Data Science", "max_marks": 100, "obt_marks": 70, "result": "PASS" },
+        { "code": "241DSESCL103", "name": "Generative AI", "max_marks": 100, "obt_marks": 78, "result": "PASS" },
+        { "code": "241DSBSCL103", "name": "Mathematics-II for Data Science", "max_marks": 100, "obt_marks": 72, "result": "PASS" },
+        { "code": "241DSPCCL101", "name": "Data Analytics Using Excel", "max_marks": 50, "obt_marks": 40, "result": "PASS" },
+        { "code": "241DSMCL103", "name": "Finishing School Training II", "max_marks": 50, "obt_marks": 38, "result": "PASS" },
+        { "code": "241DYPCCAP102.4", "name": "LLC (Coding & Programming Club)", "max_marks": 50, "obt_marks": 42, "result": "PASS" },
+        { "code": "CAPSTONE101", "name": "Capstone Project", "max_marks": 50, "obt_marks": 45, "result": "PASS" },
+        { "code": "241DSBSCP104", "name": "Applied Chemistry for Data Science Laboratory", "max_marks": 25, "obt_marks": 21, "result": "PASS" },
+        { "code": "241DSVSECL102", "name": "Computer Workshop", "max_marks": 25, "obt_marks": 20, "result": "PASS" },
+        { "code": "241CHVSECP101", "name": "Computer Workshop Laboratory", "max_marks": 25, "obt_marks": 21, "result": "PASS" },
+        { "code": "241DSESCP103", "name": "Generative AI Laboratory", "max_marks": 25, "obt_marks": 22, "result": "PASS" },
+        { "code": "241DSBSCT103", "name": "Mathematics-II for Data Science Tutorial", "max_marks": 25, "obt_marks": 19, "result": "PASS" },
+        { "code": "241DSAECL101", "name": "Professional Communication", "max_marks": 25, "obt_marks": 20, "result": "PASS" },
+        { "code": "241DSAECP101", "name": "Professional Communication Laboratory", "max_marks": 25, "obt_marks": 21, "result": "PASS" }
+    ]
+},
+
+"9422629220": {
+    "name": "Deep Santani",
+    "status": "Fail",
+    "total": 532,
+    "out_of": 775,
+    "subjects": [
+        { "code": "241DSBSCL104", "name": "Applied Chemistry for Data Science", "max_marks": 100, "obt_marks": 39, "result": "FAIL" },
+        { "code": "241DSESCL103", "name": "Generative AI", "max_marks": 100, "obt_marks": 70, "result": "PASS" },
+        { "code": "241DSBSCL103", "name": "Mathematics-II for Data Science", "max_marks": 100, "obt_marks": 68, "result": "PASS" },
+        { "code": "241DSPCCL101", "name": "Data Analytics Using Excel", "max_marks": 50, "obt_marks": 37, "result": "PASS" },
+        { "code": "241DSMCL103", "name": "Finishing School Training II", "max_marks": 50, "obt_marks": 35, "result": "PASS" },
+        { "code": "241DYPCCAP102.4", "name": "LLC (Coding & Programming Club)", "max_marks": 50, "obt_marks": 38, "result": "PASS" },
+        { "code": "CAPSTONE101", "name": "Capstone Project", "max_marks": 50, "obt_marks": 40, "result": "PASS" },
+        { "code": "241DSBSCP104", "name": "Applied Chemistry for Data Science Laboratory", "max_marks": 25, "obt_marks": 19, "result": "PASS" },
+        { "code": "241DSVSECL102", "name": "Computer Workshop", "max_marks": 25, "obt_marks": 18, "result": "PASS" },
+        { "code": "241CHVSECP101", "name": "Computer Workshop Laboratory", "max_marks": 25, "obt_marks": 19, "result": "PASS" },
+        { "code": "241DSESCP103", "name": "Generative AI Laboratory", "max_marks": 25, "obt_marks": 20, "result": "PASS" },
+        { "code": "241DSBSCT103", "name": "Mathematics-II for Data Science Tutorial", "max_marks": 25, "obt_marks": 17, "result": "PASS" },
+        { "code": "241DSAECL101", "name": "Professional Communication", "max_marks": 25, "obt_marks": 18, "result": "PASS" },
+        { "code": "241DSAECP101", "name": "Professional Communication Laboratory", "max_marks": 25, "obt_marks": 19, "result": "PASS" }
+    ]
+},
+
+"7058745254": {
+    "name": "Tejas Khot",
+    "status": "Fail",
+    "total": 530,
+    "out_of": 775,
+    "subjects": [
+        { "code": "241DSBSCL104", "name": "Applied Chemistry for Data Science", "max_marks": 100, "obt_marks": 38, "result": "FAIL" },
+        { "code": "241DSESCL103", "name": "Generative AI", "max_marks": 100, "obt_marks": 69, "result": "PASS" },
+        { "code": "241DSBSCL103", "name": "Mathematics-II for Data Science", "max_marks": 100, "obt_marks": 67, "result": "PASS" },
+        { "code": "241DSPCCL101", "name": "Data Analytics Using Excel", "max_marks": 50, "obt_marks": 36, "result": "PASS" },
+        { "code": "241DSMCL103", "name": "Finishing School Training II", "max_marks": 50, "obt_marks": 34, "result": "PASS" },
+        { "code": "241DYPCCAP102.4", "name": "LLC (Coding & Programming Club)", "max_marks": 50, "obt_marks": 36, "result": "PASS" },
+        { "code": "CAPSTONE101", "name": "Capstone Project", "max_marks": 50, "obt_marks": 39, "result": "PASS" },
+        { "code": "241DSBSCP104", "name": "Applied Chemistry for Data Science Laboratory", "max_marks": 25, "obt_marks": 18, "result": "PASS" },
+        { "code": "241DSVSECL102", "name": "Computer Workshop", "max_marks": 25, "obt_marks": 18, "result": "PASS" },
+        { "code": "241CHVSECP101", "name": "Computer Workshop Laboratory", "max_marks": 25, "obt_marks": 19, "result": "PASS" },
+        { "code": "241DSESCP103", "name": "Generative AI Laboratory", "max_marks": 25, "obt_marks": 19, "result": "PASS" },
+        { "code": "241DSBSCT103", "name": "Mathematics-II for Data Science Tutorial", "max_marks": 25, "obt_marks": 17, "result": "PASS" },
+        { "code": "241DSAECL101", "name": "Professional Communication", "max_marks": 25, "obt_marks": 18, "result": "PASS" },
+        { "code": "241DSAECP101", "name": "Professional Communication Laboratory", "max_marks": 25, "obt_marks": 19, "result": "PASS" }
+    ]
+}
+
 }
