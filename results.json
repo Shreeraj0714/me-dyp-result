@@ -1,0 +1,93 @@
+{
+    "8485881370": {
+        "name": "Shreeraj Jadhav",
+        "status": "Fail",
+        "total": 520,
+        "out_of": 775,
+        "subjects": [
+            { "code": "241DSBSCL104", "name": "Applied Chemistry for Data Science", "max_marks": 100, "obt_marks": 28, "result": "FAIL" },
+            { "code": "241DSESCL103", "name": "Generative AI", "max_marks": 100, "obt_marks": 35, "result": "FAIL" },
+            { "code": "241DSBSCL103", "name": "Mathematics-II for Data Science", "max_marks": 100, "obt_marks": 70, "result": "PASS" },
+            { "code": "241DSPCCL101", "name": "Data Analytics Using Excel", "max_marks": 50, "obt_marks": 40, "result": "PASS" },
+            { "code": "241DSMCL103", "name": "Finishing School Training II", "max_marks": 50, "obt_marks": 38, "result": "PASS" },
+            { "code": "241DYPCCAP102.4", "name": "LLC (Coding & Programming Club)", "max_marks": 50, "obt_marks": 42, "result": "PASS" },
+            { "code": "CAPSTONE101", "name": "Capstone Project", "max_marks": 50, "obt_marks": 44, "result": "PASS" },
+            { "code": "241DSBSCP104", "name": "Applied Chemistry for Data Science Laboratory", "max_marks": 25, "obt_marks": 21, "result": "PASS" },
+            { "code": "241DSVSECL102", "name": "Computer Workshop", "max_marks": 25, "obt_marks": 20, "result": "PASS" },
+            { "code": "241CHVSECP101", "name": "Computer Workshop Laboratory", "max_marks": 25, "obt_marks": 23, "result": "PASS" },
+            { "code": "241DSESCP103", "name": "Generative AI Laboratory", "max_marks": 25, "obt_marks": 22, "result": "PASS" },
+            { "code": "241DSBSCT103", "name": "Mathematics-II for Data Science Tutorial", "max_marks": 25, "obt_marks": 19, "result": "PASS" },
+            { "code": "241DSAECL101", "name": "Professional Communication", "max_marks": 25, "obt_marks": 20, "result": "PASS" },
+            { "code": "241DSAECP101", "name": "Professional Communication Laboratory", "max_marks": 25, "obt_marks": 21, "result": "PASS" }
+        ]
+    },
+
+    "7219637257": {
+        "name": "Swapnil Gavade",
+        "status": "Fail",
+        "total": 540,
+        "out_of": 775,
+        "subjects": [
+            { "code": "241DSBSCL104", "name": "Applied Chemistry for Data Science", "max_marks": 100, "obt_marks": 30, "result": "FAIL" },
+            { "code": "241DSESCL103", "name": "Generative AI", "max_marks": 100, "obt_marks": 72, "result": "PASS" },
+            { "code": "241DSBSCL103", "name": "Mathematics-II for Data Science", "max_marks": 100, "obt_marks": 65, "result": "PASS" },
+            { "code": "241DSPCCL101", "name": "Data Analytics Using Excel", "max_marks": 50, "obt_marks": 38, "result": "PASS" },
+            { "code": "241DSMCL103", "name": "Finishing School Training II", "max_marks": 50, "obt_marks": 35, "result": "PASS" },
+            { "code": "241DYPCCAP102.4", "name": "LLC (Coding & Programming Club)", "max_marks": 50, "obt_marks": 40, "result": "PASS" },
+            { "code": "CAPSTONE101", "name": "Capstone Project", "max_marks": 50, "obt_marks": 41, "result": "PASS" },
+            { "code": "241DSBSCP104", "name": "Applied Chemistry for Data Science Laboratory", "max_marks": 25, "obt_marks": 19, "result": "PASS" },
+            { "code": "241DSVSECL102", "name": "Computer Workshop", "max_marks": 25, "obt_marks": 19, "result": "PASS" },
+            { "code": "241CHVSECP101", "name": "Computer Workshop Laboratory", "max_marks": 25, "obt_marks": 21, "result": "PASS" },
+            { "code": "241DSESCP103", "name": "Generative AI Laboratory", "max_marks": 25, "obt_marks": 20, "result": "PASS" },
+            { "code": "241DSBSCT103", "name": "Mathematics-II for Data Science Tutorial", "max_marks": 25, "obt_marks": 18, "result": "PASS" },
+            { "code": "241DSAECL101", "name": "Professional Communication", "max_marks": 25, "obt_marks": 19, "result": "PASS" },
+            { "code": "241DSAECP101", "name": "Professional Communication Laboratory", "max_marks": 25, "obt_marks": 21, "result": "PASS" }
+        ]
+    },
+
+    "7498869809": {
+        "name": "Prince Singh",
+        "status": "Fail",
+        "total": 535,
+        "out_of": 775,
+        "subjects": [
+            { "code": "241DSBSCL104", "name": "Applied Chemistry for Data Science", "max_marks": 100, "obt_marks": 25, "result": "FAIL" },
+            { "code": "241DSESCL103", "name": "Generative AI", "max_marks": 100, "obt_marks": 70, "result": "PASS" },
+            { "code": "241DSBSCL103", "name": "Mathematics-II for Data Science", "max_marks": 100, "obt_marks": 62, "result": "PASS" },
+            { "code": "241DSPCCL101", "name": "Data Analytics Using Excel", "max_marks": 50, "obt_marks": 35, "result": "PASS" },
+            { "code": "241DSMCL103", "name": "Finishing School Training II", "max_marks": 50, "obt_marks": 30, "result": "PASS" },
+            { "code": "241DYPCCAP102.4", "name": "LLC (Coding & Programming Club)", "max_marks": 50, "obt_marks": 35, "result": "PASS" },
+            { "code": "CAPSTONE101", "name": "Capstone Project", "max_marks": 50, "obt_marks": 38, "result": "PASS" },
+            { "code": "241DSBSCP104", "name": "Applied Chemistry for Data Science Laboratory", "max_marks": 25, "obt_marks": 18, "result": "PASS" },
+            { "code": "241DSVSECL102", "name": "Computer Workshop", "max_marks": 25, "obt_marks": 18, "result": "PASS" },
+            { "code": "241CHVSECP101", "name": "Computer Workshop Laboratory", "max_marks": 25, "obt_marks": 20, "result": "PASS" },
+            { "code": "241DSESCP103", "name": "Generative AI Laboratory", "max_marks": 25, "obt_marks": 19, "result": "PASS" },
+            { "code": "241DSBSCT103", "name": "Mathematics-II for Data Science Tutorial", "max_marks": 25, "obt_marks": 17, "result": "PASS" },
+            { "code": "241DSAECL101", "name": "Professional Communication", "max_marks": 25, "obt_marks": 18, "result": "PASS" },
+            { "code": "241DSAECP101", "name": "Professional Communication Laboratory", "max_marks": 25, "obt_marks": 19, "result": "PASS" }
+        ]
+    },
+
+    "9922883657": {
+        "name": "Sumedh Bhosale",
+        "status": "Pass",
+        "total": 630,
+        "out_of": 775,
+        "subjects": [
+            { "code": "241DSBSCL104", "name": "Applied Chemistry for Data Science", "max_marks": 100, "obt_marks": 75, "result": "PASS" },
+            { "code": "241DSESCL103", "name": "Generative AI", "max_marks": 100, "obt_marks": 80, "result": "PASS" },
+            { "code": "241DSBSCL103", "name": "Mathematics-II for Data Science", "max_marks": 100, "obt_marks": 75, "result": "PASS" },
+            { "code": "241DSPCCL101", "name": "Data Analytics Using Excel", "max_marks": 50, "obt_marks": 42, "result": "PASS" },
+            { "code": "241DSMCL103", "name": "Finishing School Training II", "max_marks": 50, "obt_marks": 40, "result": "PASS" },
+            { "code": "241DYPCCAP102.4", "name": "LLC (Coding & Programming Club)", "max_marks": 50, "obt_marks": 43, "result": "PASS" },
+            { "code": "CAPSTONE101", "name": "Capstone Project", "max_marks": 50, "obt_marks": 45, "result": "PASS" },
+            { "code": "241DSBSCP104", "name": "Applied Chemistry for Data Science Laboratory", "max_marks": 25, "obt_marks": 22, "result": "PASS" },
+            { "code": "241DSVSECL102", "name": "Computer Workshop", "max_marks": 25, "obt_marks": 21, "result": "PASS" },
+            { "code": "241CHVSECP101", "name": "Computer Workshop Laboratory", "max_marks": 25, "obt_marks": 22, "result": "PASS" },
+            { "code": "241DSESCP103", "name": "Generative AI Laboratory", "max_marks": 25, "obt_marks": 21, "result": "PASS" },
+            { "code": "241DSBSCT103", "name": "Mathematics-II for Data Science Tutorial", "max_marks": 25, "obt_marks": 20, "result": "PASS" },
+            { "code": "241DSAECL101", "name": "Professional Communication", "max_marks": 25, "obt_marks": 21, "result": "PASS" },
+            { "code": "241DSAECP101", "name": "Professional Communication Laboratory", "max_marks": 25, "obt_marks": 22, "result": "PASS" }
+        ]
+    }
+}

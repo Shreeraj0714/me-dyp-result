@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Online Statement of Marks</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+    }
+    .header {
+        text-align: center;
+        font-size: 14px;
+    }
+    .header h2 {
+        margin: 0;
+        font-size: 18px;
+    }
+    .header h3 {
+        margin: 0;
+        font-size: 16px;
+    }
+    .student-info {
+        margin-top: 20px;
+        font-size: 14px;
+    }
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 10px;
+        font-size: 13px;
+    }
+    th, td {
+        border: 1px solid #000;
+        padding: 5px;
+        text-align: center;
+    }
+    .footer {
+        margin-top: 20px;
+        font-size: 12px;
+    }
+    .note {
+        margin-top: 10px;
+        font-size: 12px;
+    }
+</style>
+</head>
+<body>
+
+<div class="header">
+    <h2>D. Y. Patil College of Engineering and Technology</h2>
+    <p>Kasaba Bawada, Kolhapur – 416006</p>
+    <p>(An Autonomous Institute)</p>
+    <p>(Approved by AICTE, New Delhi, Recognised by Govt. of Maharashtra and Affiliated to Shivaji University, Kolhapur)</p>
+    <h3>Online Statement of Marks</h3>
+    <p>Examination: Semester 2 ESE June 2025</p>
+</div>
+
+<div class="student-info">
+    <p><strong>Name:</strong> {{ student.name }}</p>
+    <p><strong>Mobile:</strong> {{ mobile }}</p>
+</div>
+
+<table>
+    <tr>
+        <th>Course Code</th>
+        <th>Course Name</th>
+        <th>Max Marks</th>
+        <th>Obtained Marks</th>
+        <th>Result</th>
+    </tr>
+    {% for subject in student.subjects %}
+    <tr>
+        <td>{{ subject.code }}</td>
+        <td>{{ subject.name }}</td>
+        <td>{{ subject.max_marks }}</td>
+        <td>{{ subject.obt_marks }}</td>
+        <td>{{ subject.result }}</td>
+    </tr>
+    {% endfor %}
+</table>
+
+<p class="student-info"><strong>Total:</strong> {{ student.total }} / {{ student.out_of }}</p>
+<p class="student-info"><strong>Overall Result:</strong> {{ student.status }}</p>
+
+<div class="note">
+    <p>Date: July 15, 2025</p>
+    <p>Note: D. Y. Patil College of Engineering & Technology, Kolhapur is not responsible for any inadvertent error that may have crept in the result being published on internet. The results published on internet are for immediate information to the examinees. If any discrepancies found in the mark list, please submit an application to DYPCET, Examination Cell with all necessary documents immediately within 7 days from the date of result published.</p>
+</div>
+
+<div class="coming-soon" style="text-align:center; margin-top:20px;">
+    <p style="color:red; font-size:20px; font-weight:bold;">
+        The result will be downloadable soon on <a href="https://me.dypgroup.edu.in/" style="color:red;">https://me.dypgroup.edu.in/</a>
+    </p>
+</div>
+
+</body>
+</html>
+

@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Welcome to DY Patil Education</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f9f9f9;
+        margin: 0;
+        padding: 0;
+    }
+    .logo {
+        text-align: center;
+        margin-top: 20px;
+    }
+    .logo img {
+        width: 140px;
+    }
+    .container {
+        max-width: 900px;
+        margin: 20px auto;
+        background-color: #fff;
+        padding: 20px;
+        display: flex;
+        justify-content: space-between;
+        border: 1px solid #ddd;
+        box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    .info {
+        width: 58%;
+    }
+    .login-box {
+        width: 38%;
+        background-color: #f9f9f9;
+        padding: 15px;
+        border: 1px solid #ccc;
+    }
+    .note {
+        background-color: #e7f1ff;
+        border: 1px solid #bcd;
+        padding: 8px;
+        margin-bottom: 10px;
+        font-size: 13px;
+        color: #333;
+    }
+    .login-box input[type="text"], .login-box input[type="password"], .login-box input[type="email"] {
+        width: 100%;
+        padding: 6px;
+        margin: 6px 0;
+        border: 1px solid #ccc;
+        border-radius: 2px;
+    }
+    .login-box button {
+        width: 100%;
+        padding: 8px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 2px;
+        cursor: pointer;
+    }
+    .login-box button:hover {
+        background-color: #0056b3;
+    }
+    .login-box label {
+        font-size: 12px;
+    }
+    .red-note {
+        color: red;
+        font-size: 12px;
+        margin-top: -5px;
+    }
+    .forgot {
+        text-align: right;
+        font-size: 12px;
+        margin-top: 8px;
+    }
+</style>
+</head>
+<body>
+
+<div class="logo">
+    <img src="{{ url_for('static', filename='dylogo.png') }}" alt="DY Patil Logo">
+</div>
+
+<div class="container">
+    <div class="info">
+        <h3>Applicant Registration</h3>
+        <div class="note">
+            Once successfully registered please login with registered Email ID and password you’ve received on your Email ID / Mobile no to online application form.
+        </div>
+        <!-- Registration form area left blank intentionally -->
+    </div>
+
+    <div class="login-box">
+        <h3>Student Login</h3>
+        {% if error %}
+            <p class="red-note">{{ error }}</p>
+        {% endif %}
+        <form method="POST" action="/result">
+            <input type="email" name="email" placeholder="Email ID">
+            <input type="password" name="mobile" placeholder="Password" required>
+            <p class="red-note">(Password is your mobile number)</p>
+            <label><input type="checkbox"> Remember me on this computer</label>
+            <button type="submit">Login</button>
+        </form>
+        <p class="forgot"><a href="#">Forgot password?</a></p>
+    </div>
+</div>
+
+</body>
+</html>
+
+
+
