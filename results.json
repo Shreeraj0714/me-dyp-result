@@ -2,11 +2,11 @@
     "8485881370": {
         "name": "Shreeraj Jadhav",
         "status": "Fail",
-        "total": 520,
+        "total": 531,
         "out_of": 775,
         "subjects": [
-            { "code": "241DSBSCL104", "name": "Applied Chemistry for Data Science", "max_marks": 100, "obt_marks": 28, "result": "FAIL" },
-            { "code": "241DSESCL103", "name": "Generative AI", "max_marks": 100, "obt_marks": 35, "result": "FAIL" },
+            { "code": "241DSBSCL104", "name": "Applied Chemistry for Data Science", "max_marks": 100, "obt_marks": 35, "result": "FAIL" },
+            { "code": "241DSESCL103", "name": "Generative AI", "max_marks": 100, "obt_marks": 39, "result": "FAIL" },
             { "code": "241DSBSCL103", "name": "Mathematics-II for Data Science", "max_marks": 100, "obt_marks": 70, "result": "PASS" },
             { "code": "241DSPCCL101", "name": "Data Analytics Using Excel", "max_marks": 50, "obt_marks": 40, "result": "PASS" },
             { "code": "241DSMCL103", "name": "Finishing School Training II", "max_marks": 50, "obt_marks": 38, "result": "PASS" },
@@ -25,10 +25,10 @@
     "7219637257": {
         "name": "Swapnil Gavade",
         "status": "Fail",
-        "total": 540,
+        "total": 545,
         "out_of": 775,
         "subjects": [
-            { "code": "241DSBSCL104", "name": "Applied Chemistry for Data Science", "max_marks": 100, "obt_marks": 30, "result": "FAIL" },
+            { "code": "241DSBSCL104", "name": "Applied Chemistry for Data Science", "max_marks": 100, "obt_marks": 35, "result": "FAIL" },
             { "code": "241DSESCL103", "name": "Generative AI", "max_marks": 100, "obt_marks": 72, "result": "PASS" },
             { "code": "241DSBSCL103", "name": "Mathematics-II for Data Science", "max_marks": 100, "obt_marks": 65, "result": "PASS" },
             { "code": "241DSPCCL101", "name": "Data Analytics Using Excel", "max_marks": 50, "obt_marks": 38, "result": "PASS" },
@@ -48,10 +48,10 @@
     "7498869809": {
         "name": "Prince Singh",
         "status": "Fail",
-        "total": 535,
+        "total": 549,
         "out_of": 775,
         "subjects": [
-            { "code": "241DSBSCL104", "name": "Applied Chemistry for Data Science", "max_marks": 100, "obt_marks": 25, "result": "FAIL" },
+            { "code": "241DSBSCL104", "name": "Applied Chemistry for Data Science", "max_marks": 100, "obt_marks": 39, "result": "FAIL" },
             { "code": "241DSESCL103", "name": "Generative AI", "max_marks": 100, "obt_marks": 70, "result": "PASS" },
             { "code": "241DSBSCL103", "name": "Mathematics-II for Data Science", "max_marks": 100, "obt_marks": 62, "result": "PASS" },
             { "code": "241DSPCCL101", "name": "Data Analytics Using Excel", "max_marks": 50, "obt_marks": 35, "result": "PASS" },
